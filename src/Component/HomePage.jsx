@@ -1,8 +1,7 @@
 import React from 'react';
-import HomePage from '../Component/HomePage'
 
-function HomePage ()  {
-    
+function HomePage () {
+
     return(
 
         <div>
@@ -10,4 +9,5 @@ function HomePage ()  {
         </div>
     );
 }
+
 export default HomePage;
